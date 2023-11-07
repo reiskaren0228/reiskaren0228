@@ -5,7 +5,7 @@ name: Snake Game
 on:
   schedule:
       # Será atualizado a cada 5 horas.
-    - cron: "0 */5 * * *"
+    - cron: "0 */6 * * *"
 
 # Permite executar na na lista de Actions (utilizado para testes de build).
   workflow_dispatch:
@@ -20,7 +20,7 @@ jobs:
       - uses: actions/checkout@v2
 
     # Repositorio que será utilizado para gerar os arquivos.
-      - uses: Platane/snk@master
+      - uses: Platane/snk@main
         id: snake-gif
         with:
           github_user_name: reiskaren0228 #Seu usuario
@@ -34,7 +34,7 @@ jobs:
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: master
+          branch: main
           force: true
 
       - uses: crazy-max/ghaction-github-pages@v2.1.3
