@@ -70,8 +70,7 @@ const karen = {
 <!-- Inicio codigo Atividades -->
 ### <b> 🐍 GitHub Activity </b>
 
-![Snake Game](https://github.com/reiskaren0228/reiskaren0228/actions/workflows/snakeGame.yml/badge.svg?branch=main)
-![Snake](https://github.com/reiskaren0228/reiskaren0228/actions/workflows/snakeGame.yml)
+![Snake Game](https://github.com/reiskaren0228/reiskaren0228/blob/output/github-contribution-grid-snake.svg)
 
 <br>
 
