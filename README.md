@@ -71,6 +71,7 @@ const karen = {
 ### <b> 🐍 GitHub Activity </b>
 
 ![Snake Game](https://github.com/reiskaren0228/reiskaren0228/blob/output/github-contribution-grid-snake.svg)
+<br>
 ![Snake](https://github.com/reiskaren0228/reiskaren0228/blob/dist/github-contribution-grid-snake.gif)
 
 <br>
