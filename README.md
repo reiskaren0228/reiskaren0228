@@ -71,7 +71,7 @@ const karen = {
 ### <b> 🐍 GitHub Activity </b>
 
 ![Snake Game](https://github.com/reiskaren0228/reiskaren0228/actions/workflows/snakeGame.yml/badge.svg?branch=main)
-![Snake Game](https://github.com/reiskaren0228/reiskaren0228/actions/workflows/snakeGame.yml)
+![Snake](https://github.com/reiskaren0228/reiskaren0228/actions/workflows/snakeGame.yml)
 
 <br>
 
@@ -122,7 +122,7 @@ const karen = {
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <!-- Inicio codigo Status -->
-## <b> 🤖 Github Stats </b>
+## <b> 🤖 Github Status </b>
 <br>
 
 <div align="justify">
