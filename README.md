@@ -8,7 +8,7 @@
 
 <!-- Inicio codigo Contador -->
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/reiskaren0228/count.svg" /></p>
-<div align="center"><a title="rastreamento correios" href="http://rastreamentodeobjetos.net.br/"><img src="https://contador-gratis.com/contadores-de-visitas/061123031117580.gif" alt="rastreamento correios"></a><div><a href="https://www.contador-gratis.com/" title="contador de visitas"></a></div></div>
+<!-- <div align="center"><a title="rastreamento correios" href="http://rastreamentodeobjetos.net.br/"><img src="https://contador-gratis.com/contadores-de-visitas/061123031117580.gif" alt="rastreamento correios"></a><div><a href="https://www.contador-gratis.com/" title="contador de visitas"></a></div></div>-->
 <!-- Fim do codigo Contador -->
 
 <!-- Inicio codigo Texto Interativo 2 -->
