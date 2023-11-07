@@ -72,6 +72,8 @@ const karen = {
 
 ![Snake animation](https://github.com/reiskaren0228/reiskaren0228/blob/output/github-contribution-grid-snake.svg)
 
+[![Snake Game](https://github.com/reiskaren0228/reiskaren0228/actions/workflows/gameSnake.yml/badge.svg?branch=main)](https://github.com/reiskaren0228/reiskaren0228/actions/workflows/gameSnake.yml)
+
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
